@@ -2,7 +2,7 @@
 Hash: SHA256
 
 # Noosphere Exists
-Let us define currency as a medium of exchange.  A way of measuring value.  That is the value of something can be measured as an amount of a currency.
+Let us define currency as a medium of exchange.  A way of measuring value.  That is the value of something can be measured as an amount of a currency.
  
 ## Fictional Currency
  
@@ -18,7 +18,7 @@ Self-interest, misplaced political ideology, faulty economic understanding, or p
  
 Let us define semi-fictional currency as a currency that is inelastic and physical.  That is a currency whose measure of value is not subject to change.  For example, gold and other precious metals.
  
-Semi-fictional currencies are not controlled by people or organization.  In particular, a monopoly on the currency would render it useless as a medium of exchange.   The amount of a semi-fictional currency is finite.
+Semi-fictional currencies are not controlled by people or organization.  In particular, a monopoly on the currency would render it useless as a medium of exchange.  The amount of a semi-fictional currency is finite.
  
 We denote gold and its kin as semi-fictional as they are fundamentally limited in their utility as a medium of exchange by physicality.  In today’s world, gold can not be assayed or measured in an instant.  This physicality requires trust to make gold a useful currency.  Further, if value is to be electronically conveyed, this requires yet another level of trust.
  
@@ -34,9 +34,9 @@ A non-fictional currency is not limited by the longevity of any particular organ
  
 Non-fictional currencies will triumph over other currencies as there is no other sustainable alternative.
  
-## NE
+## XOO
  
-NE is a non-fictional currency.  Due to its leading position as non-fictional currency, NE is currently the only rational currency.
+XOO is a non-fictional currency.  Due to its leading position as non-fictional currency, XOO is currently the only rational currency.
  
 Is labeling the other currencies fictional biased?  The labels are descriptive in that math is the only truth to rely upon.
  
@@ -44,12 +44,11 @@ Is labeling the other currencies fictional biased?  The labels are descriptive i
  
 As people lose faith in non-fictional currencies there will be a surge to semi-fictional currencies.
  
-As people realize the vulnerabilities and weakness of semi-fictional currencies and as people come to trust in the relatively new non-fictional currencies there will be a surge to non-fictional currencies.
-Expect the rush to NE to be nothing short of world changing.
+Expect the rush to XOO to be nothing short of world changing.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE2vuAAKCRC9Tc0+S+Ym
-YyWrAQDPoPHDijXuSJPHi3QhejnFqG5kxaPRl3Pa6TXDE4OUAAEA8dE8fNNqbhSa
-Rg89ji09oMFeCblFxYzTm24rfM+69Ag=
-=4/mK
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE2wggAKCRC9Tc0+S+Ym
+Y0JoAPsEhPmaJl7aHN9icij1AQo41Gev74/G8SpRdr82gV1ZtQEAp/hE4DCa1xGR
+X+JKFGW/OaZotg6UH8SmsO83p00p+wk=
+=XaJv
 -----END PGP SIGNATURE-----
