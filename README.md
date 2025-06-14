@@ -45,10 +45,11 @@ Is labeling the other currencies fictional biased?  The labels are descriptive i
 As people lose faith in non-fictional currencies there will be a surge to semi-fictional currencies.
  
 Expect the rush to XOO to be nothing short of world changing.
+
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE2xMQAKCRC9Tc0+S+Ym
-Y9KDAQCu1O/cH75R+lbWRtqlWGNxH7A/MGJEY9MBzbzcqo+i8wD+NbVDDiXP9dWm
-OIkzVUWY3veW0+ZHeNTR4VJ4JVIC3QQ=
-=UYO/
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE2xuwAKCRC9Tc0+S+Ym
+Y6QDAP9HMr1tC073D54+obeCrD+yg4XW8WqYqOaUMk79fuEOhAD9HAqddX+lrpJ4
+SimhPkpswUCJNJTTD+y5SIF0m+XzbQQ=
+=bEBz
 -----END PGP SIGNATURE-----
