@@ -48,8 +48,8 @@ As people realize the vulnerabilities and weakness of semi-fictional currencies 
 Expect the rush to NE to be nothing short of world changing.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE1yKAAKCRC9Tc0+S+Ym
-Y1OeAP9+vy+s05IRByM3qHa7CE6I3VXBMA3vTmW//nTUSzZxkwEA1wCLdibmf9pf
-P6ztMfO1nWxyQ6fR3NQCwwz3V6iLug4=
-=vJLZ
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE2vuAAKCRC9Tc0+S+Ym
+YyWrAQDPoPHDijXuSJPHi3QhejnFqG5kxaPRl3Pa6TXDE4OUAAEA8dE8fNNqbhSa
+Rg89ji09oMFeCblFxYzTm24rfM+69Ag=
+=4/mK
 -----END PGP SIGNATURE-----
