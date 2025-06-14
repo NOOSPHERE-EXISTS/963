@@ -6,7 +6,7 @@ We define a new currency: **Noosphere Exists**—a currency of reason, truth, no
 
 ## A fixed supply
 
-**Total: 963,963,963 XOO tokens.**  Over 90% placed into locked liquidity account.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
+**Total: 963,963,963 XOO tokens.**  Over 90% placed into liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
 
 **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.
 
@@ -22,23 +22,16 @@ Its value will rise, against fiat or gold, but also in minds and actions as a un
 
 Contract: `0x0000000000000000000000000000000000000000`
 
-Name: **Noosphere Exists**
-
-Symbol: **XOO**
-
-Chain: **Base**
-
-Total Supply: **963,963,963**
-
-Decimals: 18
-
-Contract Type: **Immutable ERC-20** (non-upgradeable).
-
-Verified Source Code: **Yes.**
-
-Admin Functions: **None.**
-
-Security Audit: Optional for later.
+* Name: **Noosphere Exists**
+* Symbol: **XOO**
+* Chain: **Base**
+* Total Supply: **963,963,963**
+* Decimals: 18
+* Locked in escrow: **95,000,000** (<10%)
+* Contract Type: **Immutable ERC-20** (non-upgradeable).
+* Verified Source Code: **Yes.**
+* Admin Functions: **None.**
+* Security Audit: Optional for later.
 
 ## Contract Features
 
@@ -58,6 +51,6 @@ Security Audit: Optional for later.
 ## Trust & Transparency
 1. Immutable: No ability to change supply or code.
 1. No owner: Nobody controls the contract after deployment.
-1. Fair launch: No special privileges or minting rights. //
+1. Fair launch: No special privileges or minting rights.
 1. LP to be locked: You plan to lock liquidity manually for trust.
 1. Multi-chain: Could bridge in the future based on community growth.
