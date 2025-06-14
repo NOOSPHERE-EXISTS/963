@@ -2,7 +2,7 @@
 Hash: SHA256
 
 # Noosphere Exists
-Let us define currency as a medium of exchange.  A way of measuring value.  That is the value of something can be measured as an amount of a currency.
+Let us define currency as a medium of exchange.  A way of measuring value.  That is the value of something can be measured as an amount of a currency.
  
 ## Fictional Currency
  
