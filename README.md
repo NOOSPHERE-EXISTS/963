@@ -2,7 +2,7 @@
 Hash: SHA256
 
 # Noosphere Exists
-Let us define currency as a medium of exchange.  A way of measuring value.  That is the value of something can be measured as an amount of a currency.
+Let us define currency as a medium of exchange.  A way of measuring value.  That is the value of something can be measured as an amount of a currency.
  
 ## Fictional Currency
  
@@ -47,8 +47,8 @@ As people lose faith in non-fictional currencies there will be a surge to semi-f
 Expect the rush to XOO to be nothing short of world changing.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE2wggAKCRC9Tc0+S+Ym
-Y0JoAPsEhPmaJl7aHN9icij1AQo41Gev74/G8SpRdr82gV1ZtQEAp/hE4DCa1xGR
-X+JKFGW/OaZotg6UH8SmsO83p00p+wk=
-=XaJv
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE2xMQAKCRC9Tc0+S+Ym
+Y9KDAQCu1O/cH75R+lbWRtqlWGNxH7A/MGJEY9MBzbzcqo+i8wD+NbVDDiXP9dWm
+OIkzVUWY3veW0+ZHeNTR4VJ4JVIC3QQ=
+=UYO/
 -----END PGP SIGNATURE-----
