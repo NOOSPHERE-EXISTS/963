@@ -3,9 +3,8 @@ Hash: SHA256
 
 # "Noosphere Exists" and The Currency of Reason
 
-We define a new currency: **XOO**—a currency of reason, truth, non-greed, and trust.  Its function is to make truth omnipresent, and serve humanity.  **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, truth, and shared prosperity.  **XOO** is a metaphysical seed.
+We define a new currency: **XOO**—a currency of reason, of truth, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity.  **XOO** is a metaphysical seed.
 
-**XOO** grows organically, through increasing recognition of its value.  
 
 ## Disposition
 
@@ -13,11 +12,11 @@ Total fixed supply: 963,963,963 XOO tokens.  Over 90% placed into liquidity.  Th
 
 **XOO** is ERC20, immutable and permissionless.  No mint, no freeze, no admin.
 
-Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.
+**XOO** grows organically, through increasing recognition of its value.  Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.
 
-**XOO** is Wealth with purpose.  Truth in value, value in truth.
+**XOO** is wealth with purpose.  Truth in value, value in truth.
 
-# Noosphere Exists (XOO) Token Overview
+# Noosphere Exists (XOO) - Overview
 
 Contract: `0x0000000000000000000000000000000000000000`
 
@@ -56,8 +55,8 @@ Contract: `0x0000000000000000000000000000000000000000`
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8rUAAKCRC9Tc0+S+Ym
-Y9ABAP9icCPu//Wal0Zny/bFDJnrT4zZq0CGRiGvVwebcgVJ3AD/bX6/rRpcptDn
-mfNFv7qgX54vKqCzdE8YGpKoHNDO7gg=
-=2vwP
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8vKgAKCRC9Tc0+S+Ym
+Y4VCAP93xLqzJoWE3y0niP4qvx/UHF+06BezQft4e2ninb209QD9HOafn5wU+ym3
+Hfwo16jl3Ng9Nf2IYwoIq9rc+XPd7gE=
+=ZLM4
 -----END PGP SIGNATURE-----
