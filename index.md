@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-# Noosphere Exists and The Currency of Reason
+# "Noosphere Exists" and The Currency of Reason
 
 We define a new currency: **XOO**—a currency of reason, truth, non-greed, and trust.  Its function is to make truth omnipresent, and serve humanity.  **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, truth, and shared prosperity.  **XOO** is a metaphysical seed.
 
@@ -56,8 +56,8 @@ Contract: `0x0000000000000000000000000000000000000000`
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8rJwAKCRC9Tc0+S+Ym
-Y3j0AP4worQQ6sAqjvqMZVyl4lr3FPAurtBV6yTFKTdsFjxyEgD/Wrlu9oHmFU+Q
-agehmcSiA/JHnSZZN2IIRCQJ9RDH3QE=
-=F9If
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8rUAAKCRC9Tc0+S+Ym
+Y9ABAP9icCPu//Wal0Zny/bFDJnrT4zZq0CGRiGvVwebcgVJ3AD/bX6/rRpcptDn
+mfNFv7qgX54vKqCzdE8YGpKoHNDO7gg=
+=2vwP
 -----END PGP SIGNATURE-----
