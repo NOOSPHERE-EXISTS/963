@@ -6,7 +6,11 @@ We define a new currency: **XOO**—a currency of reason, truth, non-greed, and 
 
 ## A fixed supply
 
-**Total: 963,963,963 XOO tokens.**  Over 90% placed into liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
+**Total: 963,963,963 XOO tokens.**  
+
+Name: Noosphre Exists (XOO)
+
+Over 90% placed into liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
 
 **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.
 
