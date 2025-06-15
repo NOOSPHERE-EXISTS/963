@@ -1,6 +1,6 @@
 # Noosphere Exists and The Currency of Reason
 
-We define a new currency: **XOO**—a currency of reason, truth, non-greed, and trust.  Its function is to make truth omnipresent, and serve humanity. **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.
+We define a new currency: **XOO**—a currency of reason, truth, non-greed, and trust.  Its function is to make truth omnipresent, and serve humanity.  **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.
 
 **XOO** grows organically, through increasing recognition of its value.  
 
