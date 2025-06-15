@@ -12,10 +12,10 @@ Hash: SHA256
 - - **Eligible Applicants:** Individuals and institutions  
 
 **Purpose Areas:**
-- - Fundraisers  
-- - Donations: education, sick children, war-affected persons, refugees  
-- - Scholarships  
-- - Support for homeless and persons in need  
+- Fundraisers  
+- Donations: education, sick children, war-affected persons, refugees  
+- Scholarships  
+- Support for homeless and persons in need  
 
 **Wallet Addresses and Designations:**
 - - `0x49649C17095FAEA257150a9161123Fc05de0bd66` – "GANDHI" (Humanistic Projects 1)  
