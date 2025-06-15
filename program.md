@@ -74,11 +74,11 @@ Hash: SHA256
 
 ## 4. Tesla World Prize
 
-	- **Allocation:** 5,000,000 XOO tokens × 2 wallets
-	- **Total:** 10,000,000 XOO tokens
-	- **Release Conditions:**
- 	 - First wallet: XOO reaches at least **$25**
- 	 - Second wallet: XOO reaches at least **$50**
+* **Allocation:** 5,000,000 XOO tokens × 2 wallets
+* **Total:** 10,000,000 XOO tokens
+* **Release Conditions:**
+	* First wallet: XOO reaches at least **$25**
+	* Second wallet: XOO reaches at least **$50**
 
 **Purpose:**
 Five prizes awarded for:
@@ -121,8 +121,8 @@ Each crown valued at **$2 million USD**
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8nwQAKCRC9Tc0+S+Ym
-Y0ePAQD0EuPUUEAJk90jaJcRZhtLIDLjzliQABhAvBeu7Ky4xgEAopYiqDoZ7aqR
-veUKibv473glOo1VFfHV/c546lZyRAM=
-=0EoR
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8oYwAKCRC9Tc0+S+Ym
+Y8zYAP4l5GMQ6SMqM1AuzeVLBhfyyTNxPrY3ZioNF04e8qLlGwD/Y1VyHxrEx1mG
+gTvzndFcX4U4xFptPMfNYFy8VTbdbwc=
+=gyzD
 -----END PGP SIGNATURE-----
