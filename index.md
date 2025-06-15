@@ -16,7 +16,7 @@ Over 90% placed into liquidity.  The rest distributed across purpose-bound wal
 
 In the spirit of the **Noosphere**—the space of collective human thought—**XOO** comforts those seeking meaning, truth, and shared prosperity.  **XOO** is a metaphysical seed in human universe.
 
-Its value will rise, against fiat or gold, but also in minds and actions as a universal tool, a mirror of truth.
+Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.
 
 **XOO** is Wealth with purpose.  Truth in value, value in truth.
 
