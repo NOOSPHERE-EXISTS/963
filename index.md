@@ -54,5 +54,5 @@ Contract: `0x0000000000000000000000000000000000000000`
 1. Immutable: No ability to change supply or code.
 1. No owner: Nobody controls the contract after deployment.
 1. Fair launch: No special privileges or minting rights.
-1. LP to be locked: You plan to lock liquidity manually for trust.
+1. Liquidity Pool: Locked for trust.
 1. Multi-chain: Could bridge in the future based on community growth.
