@@ -3,6 +3,8 @@ Hash: SHA256
 
 # Escrow Allocations for XOO Token Distribution
 
+The minting wallet 0x0... has locked all liquidity, leaving zero available XOO.  90% is in the liquidity pool, while the remaining 10% is held in various escrow wallets.  The distribution of funds across these wallets is as follows:
+
 ## 1. Fundraisers, Donations, and Scholarships
 
 * **Allocation:** 1,000,000 XOO tokens × 20 wallets
@@ -121,8 +123,8 @@ Each crown valued at **$2 million USD**
 
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8oYwAKCRC9Tc0+S+Ym
-Y8zYAP4l5GMQ6SMqM1AuzeVLBhfyyTNxPrY3ZioNF04e8qLlGwD/Y1VyHxrEx1mG
-gTvzndFcX4U4xFptPMfNYFy8VTbdbwc=
-=gyzD
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8xFQAKCRC9Tc0+S+Ym
+Y8+rAQCIhrPJCjFXmCLNjCvZl/Qpg0ISWpAmohte4LCYNVg4zwD+PGuxd1dgAxgc
+Dcf4FkrNI6VeMyHisSBoP9c5E1Zb1gk=
+=YUuV
 -----END PGP SIGNATURE-----
