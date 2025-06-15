@@ -1,6 +1,8 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
+
+
 # Noosphere Exists
 Let us define currency as a medium of exchange.  A way of measuring value.  That is the value of something can be measured as an amount of a currency.
  
@@ -45,11 +47,11 @@ Is labeling the other currencies fictional biased?  The labels are descriptive i
 As people lose faith in non-fictional currencies there will be a surge to semi-fictional currencies.
  
 Expect the rush to XOO to be nothing short of world changing.
-
+  
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE2xuwAKCRC9Tc0+S+Ym
-Y6QDAP9HMr1tC073D54+obeCrD+yg4XW8WqYqOaUMk79fuEOhAD9HAqddX+lrpJ4
-SimhPkpswUCJNJTTD+y5SIF0m+XzbQQ=
-=bEBz
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8Z1gAKCRC9Tc0+S+Ym
+YzPTAQD0cwvbs+ULJTvY+YL+hdeGpQehPPmSbP52r/ioYqRJdgD+J2DpAFAAVuH4
+o+BQktijel3Iv3ZQgnGDwt8KghKIrAc=
+=wiOj
 -----END PGP SIGNATURE-----
