@@ -1,18 +1,17 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 # Noosphere Exists and The Currency of Reason
 
-We define a new currency: **XOO**—a currency of reason, truth, non-greed, and trust.  Its function is to make truth omnipresent, and serve humanity.  **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  In the spirit of the **Noosphere**—the space of collective human thought—**XOO** comforts those seeking meaning, truth, and shared prosperity.  **XOO** is a metaphysical seed in human universe.
+We define a new currency: **XOO**—a currency of reason, truth, non-greed, and trust.  Its function is to make truth omnipresent, and serve humanity.  **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, truth, and shared prosperity.  **XOO** is a metaphysical seed.
 
 **XOO** grows organically, through increasing recognition of its value.  
 
-## A fixed supply
+## Disposition
 
-**Total: 963,963,963 XOO tokens.**  
+Total fixed supply: 963,963,963 XOO tokens.  Over 90% placed into liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
 
-Name: Noosphre Exists (XOO)
-
-Over 90% placed into liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
-
-**Built on BASE, XOO is ERC20, immutable and permissionless.**  No mint, no freeze, no admin.
+**XOO** is ERC20, immutable and permissionless.  No mint, no freeze, no admin.
 
 Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.
 
@@ -49,8 +48,16 @@ Contract: `0x0000000000000000000000000000000000000000`
 | Bridging (Multi-chain) |  Future | May be deployed to other chains later      |
 
 ## Trust & Transparency
-1. Immutable: No ability to change supply or code.
-1. No owner: Nobody controls the contract after deployment.
-1. Fair launch: No special privileges or minting rights.
-1. Liquidity Pool: Locked for trust.
-1. Multi-chain: Could bridge in the future based on community growth.
+* Immutable: No ability to change supply or code.
+* No owner: Nobody controls the contract after deployment.
+* Fair launch: No special privileges or minting rights.
+* Liquidity Pool: Locked for trust.
+* Multi-chain: Could bridge in the future based on community growth.
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8rJwAKCRC9Tc0+S+Ym
+Y3j0AP4worQQ6sAqjvqMZVyl4lr3FPAurtBV6yTFKTdsFjxyEgD/Wrlu9oHmFU+Q
+agehmcSiA/JHnSZZN2IIRCQJ9RDH3QE=
+=F9If
+-----END PGP SIGNATURE-----
