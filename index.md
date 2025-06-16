@@ -1,28 +1,25 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
 # "Noosphere Exists" and The Currency of Reason
 
-We define a new currency: **XOO**—a currency of reason, of truth, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **XOO** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity.  **XOO** is a metaphysical seed.
+We define a new currency: **963**—a currency of reason, of truth, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **963** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity.  **963** is a metaphysical seed.
 
 
 ## Disposition
 
-Total fixed supply: 963,963,963 XOO tokens.  Over 90% placed into liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
+Total fixed supply: 963,963,963 **963** tokens.  Over 90% placed into liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
 
-**XOO** is ERC20, immutable and permissionless.  No mint, no freeze, no admin.
+**963** is ERC20, immutable and permissionless.  No mint, no freeze, no admin.
 
-**XOO** grows organically, through increasing recognition of its value.  Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.
+**963** grows organically, through increasing recognition of its value.  Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.
 
-**XOO** is wealth with purpose.  Truth in value, value in truth.
+**963** is wealth with purpose.  Truth in value, value in truth.
 
 # Noosphere Exists (XOO) - Overview
 
 Contract: `0x0000000000000000000000000000000000000000`
 
 * Name: **Noosphere Exists**
-* Symbol: **XOO**
-* Chain: **Base**
+* Symbol: **963**
+* Chain: **Ethereum**
 * Total Supply: **963,963,963**
 * Decimals: 18
 * Locked in escrow: **95,000,000** (<10%)
@@ -46,17 +43,9 @@ Contract: `0x0000000000000000000000000000000000000000`
 | LP Locking          |  Manual | Locked LP  (off-chain)          |
 | Bridging (Multi-chain) |  Future | May be deployed to other chains later      |
 
-## Trust & Transparency
+### Trust & Transparency
 * Immutable: No ability to change supply or code.
 * No owner: Nobody controls the contract after deployment.
 * Fair launch: No special privileges or minting rights.
 * Liquidity Pool: Locked for trust.
 * Multi-chain: Could bridge in the future based on community growth.
-
------BEGIN PGP SIGNATURE-----
-
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8vKgAKCRC9Tc0+S+Ym
-Y4VCAP93xLqzJoWE3y0niP4qvx/UHF+06BezQft4e2ninb209QD9HOafn5wU+ym3
-Hfwo16jl3Ng9Nf2IYwoIq9rc+XPd7gE=
-=ZLM4
------END PGP SIGNATURE-----
