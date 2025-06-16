@@ -1,8 +1,3 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
-
-
 # Noosphere Exists
 Let us define currency as a medium of exchange.  A way of measuring value.  That is the value of something can be measured as an amount of a currency.
  
@@ -36,9 +31,9 @@ A non-fictional currency is not limited by the longevity of any particular organ
  
 Non-fictional currencies will triumph over other currencies as there is no other sustainable alternative.
  
-## XOO
+## **963**
  
-XOO is a non-fictional currency.  Due to its leading position as non-fictional currency, XOO is currently the only rational currency.
+**963** is a non-fictional currency.  Due to its leading position as non-fictional currency, **963** is currently the only rational currency.
  
 Is labeling the other currencies fictional biased?  The labels are descriptive in that math is the only truth to rely upon.
  
@@ -46,12 +41,4 @@ Is labeling the other currencies fictional biased?  The labels are descriptive i
  
 As people lose faith in non-fictional currencies there will be a surge to semi-fictional currencies.
  
-Expect the rush to XOO to be nothing short of world changing.
-  
------BEGIN PGP SIGNATURE-----
-
-iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaE8Z1gAKCRC9Tc0+S+Ym
-YzPTAQD0cwvbs+ULJTvY+YL+hdeGpQehPPmSbP52r/ioYqRJdgD+J2DpAFAAVuH4
-o+BQktijel3Iv3ZQgnGDwt8KghKIrAc=
-=wiOj
------END PGP SIGNATURE-----
+Expect the rush to **963** to be nothing short of world changing.
