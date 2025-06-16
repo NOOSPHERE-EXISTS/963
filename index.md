@@ -1,6 +1,6 @@
 # "Noosphere Exists" and The Currency of Reason
 
-We define a new currency: **963**—a currency of reason, of truth, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **963** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity.  **963** is a metaphysical seed.
+We define a new currency: **963**—a currency of reason, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **963** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity.  **963** is a metaphysical seed.
 
 
 ## Disposition
