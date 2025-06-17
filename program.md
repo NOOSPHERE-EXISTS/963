@@ -1,12 +1,18 @@
-# Escrow Allocations for 963 Token Distribution
+# Escrow Allocations for NOX Token Distribution
 
-The minting wallet 0x0... has locked all liquidity, leaving zero available 963.  90% is in the liquidity pool, while the remaining 10% is held in various escrow wallets.  The distribution of funds across these wallets is as follows:
+* **Minting wallet:** `0x4EFD0eBE2D08c7346b227805234D92E7c1aa8662`
+* **Minting address:** `0x0...`
+* **Total supply:** 963,963,963 NOX
+* **Liquidity pool:** 90% or 867,567,566.7 NOX
+* **Escrow wallets:** 10% or 963,963,96.3 NOX
+
+The distribution of funds across these wallets is as follows:
 
 ## 1. Fundraisers, Donations, and Scholarships
 
-* **Allocation:** 1,000,000 963 tokens × 20 wallets
-* **Total:** 20,000,000 963 tokens
-* **Release Condition:** When 963 reaches at least **$0.50**
+* **Allocation:** 1,000,000 NOX tokens × 20 wallets
+* **Total:** 20,000,000 NOX tokens
+* **Release Condition:** When NOX reaches at least **$0.50**
 * **Distribution:** Gradual release to multiple projects
 * **Eligible Applicants:** Individuals and institutions
 
@@ -40,9 +46,9 @@ The minting wallet 0x0... has locked all liquidity, leaving zero available 963. 
 
 ## 2. Grants
 
-* **Allocation:** 2,000,000 963 tokens × 10 wallets
-* **Total:** 20,000,000 963 tokens
-* **Release Condition:** When 963 reaches at least **$1**
+* **Allocation:** 2,000,000 NOX tokens × 10 wallets
+* **Total:** 20,000,000 NOX tokens
+* **Release Condition:** When NOX reaches at least **$1**
 * **Distribution:** In parts, to multiple projects
 * **Eligible Applicants:** Institutions only
 
@@ -60,24 +66,24 @@ The minting wallet 0x0... has locked all liquidity, leaving zero available 963. 
 
 ## 3. Awards
 
-* **Allocation:** 3,000,000 963 tokens × 5 wallets
-* **Total:** 15,000,000 963 tokens
-* **Release Condition:** When 963 reaches at least **$10**
+* **Allocation:** 3,000,000 NOX tokens × 5 wallets
+* **Total:** 15,000,000 NOX tokens
+* **Release Condition:** When NOX reaches at least **$10**
 
 **Wallet Addresses and Designations:**
 * `0xe9FB45115815f0991cF55D039850A1F457322569` – "BEETHOVEN" ($100k Award - Music Composition)
 * `0x08869Ce5762D480F40c28876d1339A3275f35a3E` – "KANT" ($100k Award - Philosophy)
 * `0x825f498A7717c4a9766E36eFEf25976D612FA03f` – "TOLSTOY" ($100k Award - Literature)
 * `0xa893fA11294Abe6d7467dA5A69D9908F919E8759` – "MONTESSORI" ($100k Award - Pedagogy)
-* `0xf29fa68c4da78E623e2B213C9CDFae07EbF8B142` – "ST.AUGUSTI963" ($100k Award - Religion)
+* `0xf29fa68c4da78E623e2B213C9CDFae07EbF8B142` – "ST.AUGUSTINE" ($100k Award - Religion)
 
 ## 4. Tesla World Prize
 
-* **Allocation:** 5,000,000 963 tokens × 2 wallets
-* **Total:** 10,000,000 963 tokens
+* **Allocation:** 5,000,000 NOX tokens × 2 wallets
+* **Total:** 10,000,000 NOX tokens
 * **Release Conditions:**
-	* First wallet: 963 reaches at least **$25**
-	* Second wallet: 963 reaches at least **$50**
+	* First wallet: NOX reaches at least **$25**
+	* Second wallet: NOX reaches at least **$50**
 
 **Purpose:**
 Five prizes awarded for:
@@ -93,9 +99,9 @@ Five prizes awarded for:
 
 ## 5. St. Michael - World Crown
 
-* **Allocation:** 10,000,000 963 tokens × 1 wallet
-* **Total:** 10,000,000 963 tokens
-* **Release Condition:** When 963 reaches at least **$100**
+* **Allocation:** 10,000,000 NOX tokens × 1 wallet
+* **Total:** 10,000,000 NOX tokens
+* **Release Condition:** When NOX reaches at least **$100**
 
 **Purpose:**
 Five crowns awarded **yearly** for:
@@ -111,9 +117,9 @@ Each crown valued at **$2 million USD**
 * `0x5D0127e043eF0f320b856B19709fecc9e486f66C`
 
 ## Infinity.  Singularity.
-* **Allocation:** 20,000,000 963 tokens × 1 wallet
-* **Total:** 20,000,000 963 tokens
-* **Release Conditions:** Micro-support, funding.
+* **Allocation:** 20,000,000 NOX tokens × 1 wallet
+* **Total:** 20,000,000 NOX tokens
+* **Release Conditions:** Micro-support, funding, airdrops, investors.
 
 **Wallet:**
 * `0x6A099E68deceC972CC067B327CA2A84e12aF76c1`
