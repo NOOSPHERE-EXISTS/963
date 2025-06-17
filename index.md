@@ -1,24 +1,24 @@
 # "Noosphere Exists" and The Currency of Reason
 
-We define a new currency: **963**—a currency of reason, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **963** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity.  **963** is a metaphysical seed.
+We define a new currency: **NOX**—a currency of reason, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **NOX** is meant to be a symbol of shared purpose.  A value that rewards patience, conviction, and understanding; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity.  **NOX** is a metaphysical seed.
 
 
 ## Disposition
 
-Total fixed supply: 963,963,963 **963** tokens.  Over 90% placed into liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
+Total fixed supply: 963,963,963 **NOX** tokens.  Over 90% placed into liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
 
-**963** is ERC20, immutable and permissionless.  No mint, no freeze, no admin.
+**NOX** is ERC20, immutable and permissionless.  No mint, no freeze, no admin.
 
-**963** grows organically, through increasing recognition of its value.  Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.
+**NOX** grows organically, through increasing recognition of its value.  Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.
 
-**963** is wealth with purpose.  Truth in value, value in truth.
+**NOX** is wealth with purpose.  Truth in value, value in truth.
 
 # Noosphere Exists (XOO) - Overview
 
 Contract: `0x0000000000000000000000000000000000000000`
 
 * Name: **Noosphere Exists**
-* Symbol: **963**
+* Symbol: **NOX**
 * Chain: **Ethereum**
 * Total Supply: **963,963,963**
 * Decimals: 18
