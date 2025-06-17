@@ -86,8 +86,8 @@ The distribution of funds across these wallets is as follows:
 	* Second wallet: NOX reaches at least **$50**
 
 **Purpose:**
-Five prizes awarded for:
-* Peace
+Four prizes awarded for:
+
 * Technology
 * Physics
 * Chemistry
@@ -105,11 +105,8 @@ Five prizes awarded for:
 
 **Purpose:**
 Five crowns awarded **yearly** for:
+
 * Peace
-* Technology
-* Physics
-* Chemistry
-* Medicine
 
 Each crown valued at **$2 million USD**
 
