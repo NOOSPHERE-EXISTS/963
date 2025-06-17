@@ -36,9 +36,9 @@ A non-fictional currency is not limited by the longevity of any particular organ
  
 Non-fictional currencies will triumph over other currencies as there is no other sustainable alternative.
  
-## **963**
+## **NOX**
  
-**963** is a non-fictional currency.  Due to its leading position as non-fictional currency, **963** is currently the only rational currency.
+**NOX** is a non-fictional currency.  Due to its leading position as non-fictional currency, **NOX** is currently the only rational currency.
  
 Is labeling the other currencies fictional biased?  The labels are descriptive in that math is the only truth to rely upon.
  
@@ -46,4 +46,4 @@ Is labeling the other currencies fictional biased?  The labels are descriptive i
  
 As people lose faith in non-fictional currencies there will be a surge to semi-fictional currencies.
  
-Expect the rush to **963** to be nothing short of world changing.
+Expect the rush to **NOX** to be nothing short of world changing.
