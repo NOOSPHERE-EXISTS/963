@@ -1,7 +1,7 @@
 # Escrow Allocations for NOX Token Distribution
 
 * **Minting wallet:** `0x4EFD0eBE2D08c7346b227805234D92E7c1aa8662`
-* **Minting address:** `0x0...`
+* **Minting address, contract:** `0x0...`
 * **Total supply:** 963,963,963 NOX
 * **Liquidity pool:** more than 90% or 868,963,963 NOX
 * **Escrow wallets:** less than 10% or 95,000,000 NOX
