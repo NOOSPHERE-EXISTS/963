@@ -3,8 +3,8 @@
 * **Minting wallet:** `0x4EFD0eBE2D08c7346b227805234D92E7c1aa8662`
 * **Minting address:** `0x0...`
 * **Total supply:** 963,963,963 NOX
-* **Liquidity pool:** 90% or 867,567,566.7 NOX
-* **Escrow wallets:** 10% or 963,963,96.3 NOX
+* **Liquidity pool:** more than 90% or 868,963,963 NOX
+* **Escrow wallets:** less than 10% or 95,000,000 NOX
 
 The distribution of funds across these wallets is as follows:
 
@@ -99,9 +99,9 @@ Five prizes awarded for:
 
 ## 5. St. Michael - World Crown
 
-* **Allocation:** 10,000,000 NOX tokens × 1 wallet
-* **Total:** 10,000,000 NOX tokens
-* **Release Condition:** When NOX reaches at least **$100**
+* **Allocation:** 15,000,000 NOX tokens × 1 wallet
+* **Total:** 15,000,000 NOX tokens
+* **Release Condition:** When NOX reaches at least **$750**
 
 **Purpose:**
 Five crowns awarded **yearly** for:
@@ -117,9 +117,9 @@ Each crown valued at **$2 million USD**
 * `0x5D0127e043eF0f320b856B19709fecc9e486f66C`
 
 ## Infinity.  Singularity.
-* **Allocation:** 20,000,000 NOX tokens × 1 wallet
-* **Total:** 20,000,000 NOX tokens
-* **Release Conditions:** Micro-support, funding, airdrops, investors.
+* **Allocation:** 15,000,000 NOX tokens × 1 wallet
+* **Total:** 15,000,000 NOX tokens
+* **Release Conditions:** Micro-support, funding, airdrops, investors, exchanges.
 
 **Wallet:**
 * `0x6A099E68deceC972CC067B327CA2A84e12aF76c1`
