@@ -19,7 +19,7 @@ Contract: `0x0000000000000000000000000000000000000000`
 
 * Name: **Noosphere Exists**
 * Symbol: **NX**
-* Chain: **Ethereum**
+* Chain: **BASE**
 * Total Supply: **963,963,963**
 * Decimals: 18
 * Locked in escrow: **95,000,000** (<10%)
