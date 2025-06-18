@@ -94,14 +94,14 @@ Four prizes awarded for:
 * Medicine
 
 **Wallets:**
-* `0x4144f8e70AF4CD0c197144149676491Ce11E9f58`
-* `0x8cb12789cc2D3fba7699336e7EE849029F17ce1b`
+* `0x4144f8e70AF4CD0c197144149676491Ce11E9f58` – "TESLA 1" 
+* `0x8cb12789cc2D3fba7699336e7EE849029F17ce1b` – "TESLA 2"
 
 ## 5. St. Michael - World Crown
 
 * **Allocation:** 15,000,000 NX tokens × 1 wallet
 * **Total:** 15,000,000 NX tokens
-* **Release Condition:** When NX reaches at least **$750**
+* **Release Condition:** When NX reaches at least **$75**
 
 **Purpose:**
 Five crowns awarded **yearly** for:
@@ -111,7 +111,7 @@ Five crowns awarded **yearly** for:
 Each crown valued at **$2 million USD**
 
 **Wallet:**
-* `0x5D0127e043eF0f320b856B19709fecc9e486f66C`
+* `0x5D0127e043eF0f320b856B19709fecc9e486f66C` – "ST. MICHAEL"
 
 ## Infinity.  Singularity.
 * **Allocation:** 15,000,000 NX tokens × 1 wallet
