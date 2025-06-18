@@ -1,6 +1,7 @@
 # "Noosphere Exists" and The Currency of Reason
 
-We define a new currency: **NX**—a currency of reason, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **NX** is meant to be a symbol of shared purpose; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity.  **NX** is a metaphysical seed.
+### Prologue
+We define a new currency: **NX**—a currency of reason, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **NX** is meant to be a symbol of shared purpose; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity; the teaching about the sense of life through moral practice.  Planetary values are based on the ideas of harmony, and co-evolution of All-humanity and the Universe; life fighting chaos and entropy.  **NX** is a metaphysical seed.
 
 
 ## Disposition
