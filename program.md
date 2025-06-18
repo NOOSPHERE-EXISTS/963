@@ -1,11 +1,12 @@
 # Escrow Allocations for NX Token Distribution
 
 * **Minting platform:** Ethereum
+* **Minting type:** ERC20
 * **Minting wallet:** `0x4EFD0eBE2D08c7346b227805234D92E7c1aa8662`
 * **Minting address, contract:** `0x0...`
 * **Total supply:** 963,963,963 NX
-* **Liquidity pool:** more than 90% or 868,963,963 NX
-* **Escrow wallets:** less than 10% or 95,000,000 NX
+* **Liquidity pool:** >90% or 868,963,963 NX
+* **Escrow wallets:** <10% or 95,000,000 NX
 
 The distribution of funds across these wallets is as follows:
 
