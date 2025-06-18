@@ -1,6 +1,6 @@
 # Escrow Allocations for NX Token Distribution
 
-* **Minting platform:** Ethereum
+* **Minting platform:** BASE
 * **Minting type:** ERC20
 * **Minting wallet:** `0x4EFD0eBE2D08c7346b227805234D92E7c1aa8662`
 * **Minting address, contract:** `0x0...`
