@@ -1,18 +1,18 @@
-# Escrow Allocations for NOX Token Distribution
+# Escrow Allocations for NX Token Distribution
 
 * **Minting wallet:** `0x4EFD0eBE2D08c7346b227805234D92E7c1aa8662`
 * **Minting address, contract:** `0x0...`
-* **Total supply:** 963,963,963 NOX
-* **Liquidity pool:** more than 90% or 868,963,963 NOX
-* **Escrow wallets:** less than 10% or 95,000,000 NOX
+* **Total supply:** 963,963,963 NX
+* **Liquidity pool:** more than 90% or 868,963,963 NX
+* **Escrow wallets:** less than 10% or 95,000,000 NX
 
 The distribution of funds across these wallets is as follows:
 
 ## 1. Fundraisers, Donations, and Scholarships
 
-* **Allocation:** 1,000,000 NOX tokens × 20 wallets
-* **Total:** 20,000,000 NOX tokens
-* **Release Condition:** When NOX reaches at least **$0.50**
+* **Allocation:** 1,000,000 NX tokens × 20 wallets
+* **Total:** 20,000,000 NX tokens
+* **Release Condition:** When NX reaches at least **$0.50**
 * **Distribution:** Gradual release to multiple projects
 * **Eligible Applicants:** Individuals and institutions
 
@@ -46,9 +46,9 @@ The distribution of funds across these wallets is as follows:
 
 ## 2. Grants
 
-* **Allocation:** 2,000,000 NOX tokens × 10 wallets
-* **Total:** 20,000,000 NOX tokens
-* **Release Condition:** When NOX reaches at least **$1**
+* **Allocation:** 2,000,000 NX tokens × 10 wallets
+* **Total:** 20,000,000 NX tokens
+* **Release Condition:** When NX reaches at least **$1**
 * **Distribution:** In parts, to multiple projects
 * **Eligible Applicants:** Institutions only
 
@@ -66,9 +66,9 @@ The distribution of funds across these wallets is as follows:
 
 ## 3. Awards
 
-* **Allocation:** 3,000,000 NOX tokens × 5 wallets
-* **Total:** 15,000,000 NOX tokens
-* **Release Condition:** When NOX reaches at least **$10**
+* **Allocation:** 3,000,000 NX tokens × 5 wallets
+* **Total:** 15,000,000 NX tokens
+* **Release Condition:** When NX reaches at least **$10**
 
 **Wallet Addresses and Designations:**
 * `0xe9FB45115815f0991cF55D039850A1F457322569` – "BEETHOVEN" ($100k Award - Music Composition)
@@ -79,11 +79,11 @@ The distribution of funds across these wallets is as follows:
 
 ## 4. Tesla World Prize
 
-* **Allocation:** 5,000,000 NOX tokens × 2 wallets
-* **Total:** 10,000,000 NOX tokens
+* **Allocation:** 5,000,000 NX tokens × 2 wallets
+* **Total:** 10,000,000 NX tokens
 * **Release Conditions:**
-	* First wallet: NOX reaches at least **$25**
-	* Second wallet: NOX reaches at least **$50**
+	* First wallet: NX reaches at least **$25**
+	* Second wallet: NX reaches at least **$50**
 
 **Purpose:**
 Four prizes awarded for:
@@ -99,9 +99,9 @@ Four prizes awarded for:
 
 ## 5. St. Michael - World Crown
 
-* **Allocation:** 15,000,000 NOX tokens × 1 wallet
-* **Total:** 15,000,000 NOX tokens
-* **Release Condition:** When NOX reaches at least **$750**
+* **Allocation:** 15,000,000 NX tokens × 1 wallet
+* **Total:** 15,000,000 NX tokens
+* **Release Condition:** When NX reaches at least **$750**
 
 **Purpose:**
 Five crowns awarded **yearly** for:
@@ -114,8 +114,8 @@ Each crown valued at **$2 million USD**
 * `0x5D0127e043eF0f320b856B19709fecc9e486f66C`
 
 ## Infinity.  Singularity.
-* **Allocation:** 15,000,000 NOX tokens × 1 wallet
-* **Total:** 15,000,000 NOX tokens
+* **Allocation:** 15,000,000 NX tokens × 1 wallet
+* **Total:** 15,000,000 NX tokens
 * **Release Conditions:** Micro-support, funding, airdrops, investors, exchanges.
 
 **Wallet:**
