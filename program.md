@@ -110,7 +110,7 @@ Five crowns awarded **yearly** for:
 
 * Peace
 
-Each crown valued at **$2 million USD**
+The Crown is valued at **$2 million USD**
 
 **Wallet:**
 * `0x5D0127e043eF0f320b856B19709fecc9e486f66C` – "ST. MICHAEL"
