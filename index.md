@@ -28,7 +28,6 @@ Contract: `0x0000000000000000000000000000000000000000`
 * Contract Type: **Immutable ERC-20** (non-upgradeable).
 * Verified Source Code: **Yes.**
 * Admin Functions: **None.**
-* Security Audit: Optional for later.
 
 ## Contract Features
 
