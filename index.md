@@ -1,7 +1,7 @@
 # "Noosphere Exists" and The Currency of Reason
 
 ## Prologue
-We define a new currency: **NX**—a currency of reason, of non-greed, and of trust.  Its function is to make truth omnipresent, and serve humanity.  **NX** is meant to be a symbol of shared purpose; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity; the teaching about the sense of life through moral practice.  Planetary values are based on the ideas of harmony, and co-evolution of All-humanity and the Universe; life fighting chaos and entropy.  **NX** is a metaphysical seed.
+We define a new currency: **NX**—a currency of reason, of non-greed, and of trust.  Its function is to make truth omnipresent, and to alert humanity.  **NX** is meant to be a symbol of shared purpose; above all love for each other.  The **Noosphere** is a space of collective human thought—it comforts those seeking meaning, and shared prosperity; the teaching about the sense of life through moral practice.  Planetary values are based on the ideas of harmony, and co-evolution of All-humanity and the Universe; life fighting chaos and entropy.  **NX** is a metaphysical seed. Therefore, the **Noosphere Exists**.
 
 
 ## Disposition
@@ -10,9 +10,7 @@ We define a new currency: **NX**—a currency of reason, of non-greed, and of tr
 
 Total fixed supply: 963,963,963 **NX** tokens.  Over 90% placed into the locked liquidity.  The rest distributed across purpose-bound wallets (see program.md).  Each wallet corresponds to a value or goal.  When the time is exact, when consensus and worth align, these wallets will release tokens from the escrow, releasing them gradually for their purpose.
 
-**NX** grows organically, through increasing recognition of its value.  Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.
-
-**NX** is wealth with purpose.  Truth in value, value in truth.
+**NX** grows organically, through increasing recognition of its value.  Its value will rise, against fiat or gold, but also in minds and actions as a universal tool.  **NX** is wealth with purpose.  Truth in value, value in truth.
 
 # Noosphere Exists (NX) - Overview
 
