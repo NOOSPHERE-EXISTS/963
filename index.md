@@ -20,7 +20,7 @@ Contract: `0x0000000000000000000000000000000000000000`
 
 * Name: **Noosphere Exists**
 * Symbol: **NX**
-* Symbol representation: 🟢
+* Symbolic representation: 🟢
 * Chain: **BASE**
 * Total Supply: **963,963,963**
 * Decimals: 18
