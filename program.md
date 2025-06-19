@@ -115,10 +115,10 @@ The Crown is valued at **$2 million USD**
 **Wallet:**
 * `0x5D0127e043eF0f320b856B19709fecc9e486f66C` – "ST. MICHAEL"
 
-## Infinity.  Singularity.
+## Infinity.  Singularity. Master. Noosphere.
 * **Allocation:** 15,000,000 NX tokens × 1 wallet
 * **Total:** 15,000,000 NX tokens
-* **Release Conditions:** Micro-support, funding, airdrops, investors, exchanges.
+* **Release Conditions:** Micro-support, donations, funding, airdrops, investors.
 
 **Wallet:**
 * `0x6A099E68deceC972CC067B327CA2A84e12aF76c1`
