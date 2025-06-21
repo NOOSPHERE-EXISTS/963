@@ -1,20 +1,20 @@
-# Escrow Allocations for NX Token Distribution
+# Escrow Allocations for LUX Token Distribution
 
 * **Minting platform:** BASE
 * **Minting type:** ERC20
 * **Minting wallet:** `0x4EFD0eBE2D08c7346b227805234D92E7c1aa8662`
 * **Minting address, contract:** `0x0...`
-* **Total supply:** 963,963,963 NX
-* **Liquidity pool:** >90% or 868,963,963 NX
-* **Escrow wallets:** <10% or 95,000,000 NX
+* **Total supply:** 963,963,963 LUX
+* **Liquidity pool:** >90% or 868,963,963 LUX
+* **Escrow wallets:** <10% or 95,000,000 LUX
 
 The distribution of funds across these wallets is as follows:
 
 ## 1. Fundraisers, Donations, and Scholarships
 
-* **Allocation:** 1,000,000 NX tokens × 20 wallets
-* **Total:** 20,000,000 NX tokens
-* **Release Condition:** When NX reaches at least **$0.50**
+* **Allocation:** 1,000,000 LUX tokens × 20 wallets
+* **Total:** 20,000,000 LUX tokens
+* **Release Condition:** When LUX reaches at least **$0.50**
 * **Distribution:** Gradual release to multiple projects
 * **Eligible Applicants:** Individuals and institutions
 
@@ -48,9 +48,9 @@ The distribution of funds across these wallets is as follows:
 
 ## 2. Grants
 
-* **Allocation:** 2,000,000 NX tokens × 10 wallets
-* **Total:** 20,000,000 NX tokens
-* **Release Condition:** When NX reaches at least **$1**
+* **Allocation:** 2,000,000 LUX tokens × 10 wallets
+* **Total:** 20,000,000 LUX tokens
+* **Release Condition:** When LUX reaches at least **$1**
 * **Distribution:** In parts, to multiple projects
 * **Eligible Applicants:** Institutions only
 
@@ -68,9 +68,9 @@ The distribution of funds across these wallets is as follows:
 
 ## 3. Awards
 
-* **Allocation:** 3,000,000 NX tokens × 5 wallets
-* **Total:** 15,000,000 NX tokens
-* **Release Condition:** When NX reaches at least **$10**
+* **Allocation:** 3,000,000 LUX tokens × 5 wallets
+* **Total:** 15,000,000 LUX tokens
+* **Release Condition:** When LUX reaches at least **$10**
 
 **Wallet Addresses and Designations:**
 * `0xe9FB45115815f0991cF55D039850A1F457322569` – "BEETHOVEN" ($100k Award - Music Composition)
@@ -81,11 +81,11 @@ The distribution of funds across these wallets is as follows:
 
 ## 4. Tesla World Prize
 
-* **Allocation:** 5,000,000 NX tokens × 2 wallets
-* **Total:** 10,000,000 NX tokens
+* **Allocation:** 5,000,000 LUX tokens × 2 wallets
+* **Total:** 10,000,000 LUX tokens
 * **Release Conditions:**
-	* First wallet: NX reaches at least **$25**
-	* Second wallet: NX reaches at least **$50**
+	* First wallet: LUX reaches at least **$25**
+	* Second wallet: LUX reaches at least **$50**
 
 **Purpose:**
 Four prizes awarded for:
@@ -101,9 +101,9 @@ Four prizes awarded for:
 
 ## 5. St. Michael - World Crown
 
-* **Allocation:** 15,000,000 NX tokens × 1 wallet
-* **Total:** 15,000,000 NX tokens
-* **Release Condition:** When NX reaches at least **$75**
+* **Allocation:** 15,000,000 LUX tokens × 1 wallet
+* **Total:** 15,000,000 LUX tokens
+* **Release Condition:** When LUX reaches at least **$75**
 
 **Purpose:**
 Five crowns awarded **yearly** for:
@@ -116,8 +116,8 @@ The Crown is valued at **$2 million USD**
 * `0x5D0127e043eF0f320b856B19709fecc9e486f66C` – "ST. MICHAEL"
 
 ## Infinity.  Singularity. Master. Noosphere.
-* **Allocation:** 15,000,000 NX tokens × 1 wallet
-* **Total:** 15,000,000 NX tokens
+* **Allocation:** 15,000,000 LUX tokens × 1 wallet
+* **Total:** 15,000,000 LUX tokens
 * **Release Conditions:** Micro-support, donations, funding, airdrops, investors.
 
 **Wallet:**
