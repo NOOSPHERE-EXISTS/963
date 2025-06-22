@@ -101,8 +101,8 @@ Four prizes yearly awarded for:
 
 ## 5. St. Michael - World Crown
 
-* **Allocation:** 15,000,000 LUX tokens × 1 wallet
-* **Total:** 15,000,000 LUX tokens
+* **Allocation:** 10,000,000 LUX tokens × 1 wallet
+* **Total:** 10,000,000 LUX tokens
 * **Release Condition:** When LUX reaches at least **$75**
 
 **Purpose:**
@@ -116,8 +116,8 @@ The Crown is valued at **$2 million USD**, yearly.
 * `0x5D0127e043eF0f320b856B19709fecc9e486f66C` – "ST. MICHAEL"
 
 ## Infinity.  Singularity. Master. Noosphere.
-* **Allocation:** 15,000,000 LUX tokens × 1 wallet
-* **Total:** 15,000,000 LUX tokens
+* **Allocation:** 20,000,000 LUX tokens × 1 wallet
+* **Total:** 20,000,000 LUX tokens
 * **Release Conditions:** Micro-support, donations, funding, airdrops, investors.
 
 **Wallet:**
