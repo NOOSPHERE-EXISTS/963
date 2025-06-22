@@ -14,7 +14,7 @@ Total fixed supply: 963,963,963 **LUX** tokens.  Over 90% placed into the locked
 
 # Noosphere Exists (LUX) - Overview
 
-Contract: `0x0000000000000000000000000000000000000000`
+Contract: `0x0cf94751d66f0bd0c09a7b8b84a71CF2E7D6a664`
 
 * Name: **Noosphere Exists**
 * Symbol: **LUX**
