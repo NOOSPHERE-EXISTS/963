@@ -3,7 +3,7 @@
 * **Minting platform:** BASE
 * **Minting type:** ERC20
 * **Minting wallet:** `0x4EFD0eBE2D08c7346b227805234D92E7c1aa8662`
-* **Minting address, contract:** <span style="background-color:green">`0x0cf94751d66f0bd0c09a7b8b84a71CF2E7D6a664`</span>
+* **Minting address, contract:** <span style="color:red"> *0x0cf94751d66f0bd0c09a7b8b84a71CF2E7D6a664`</span>
 * **Total supply:** 963,963,963 LUX
 * **Liquidity pool:** >90% or 868,963,963 LUX
 * **Escrow wallets:** <10% or 95,000,000 LUX
