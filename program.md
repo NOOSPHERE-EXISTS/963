@@ -55,14 +55,14 @@ The distribution of funds across these wallets is as follows:
 * **Eligible Applicants:** Institutions only
 
 **Wallet Addresses and Designations:**
-* `0x92ae094de3AB4864a26AdE8504bfb875332bcBCf` – "HERODOTUS" (Cultural Preservation 1)
-* `0x65845d440522e27f64A117DaC02368dAc48C5f7D` – "KHALDUN" (Cultural Preservation 2)
-* `0x8b9ad61a1c113503D6bce4D391B2fF2B826060c7` – "ST.GEORGE" (Anti-Child Exploitation)
-* `0xfe747474cACe929174f8659Bc012Ee05476a1608` – "TAKEMITSU" (Macrogrants - Art via Institutions 1)
+* `0x92ae094de3AB4864a26AdE8504bfb875332bcBCf` – "HERODOTUS" (Cultural Preservation - General)
+* `0x65845d440522e27f64A117DaC02368dAc48C5f7D` – "ST.EUPHEMIA" (Anti-Child Exploitation 1)
+* `0x8b9ad61a1c113503D6bce4D391B2fF2B826060c7` – "ST.GEORGE" (Anti-Child Exploitation 2)
+* `0xfe747474cACe929174f8659Bc012Ee05476a1608` – "TAKEMITSU" (Macrogrants - Art Music via Institutions 1)
 * `0xC1caF61129F6BCF0dF441ca904590F7722F47Fc8` – "DALI" (Macrogrants - Art via Institutions 2)
-* `0x3bA46D2c2Ae629FcE687517EEDa830fAC55fCcc3` – "BARTOK" (Cultural Institutions - Music)
-* `0x7B23677d1A0634b2917f9460041527F06D4A7d34` – "RODIN" (Cultural Institutions - Museums)
-* `0xc75D5E45e0fCf784E6C0Bb9686F58A5922d857cB` – "NIGHTINGALE" (Hospitals 1)
+* `0x3bA46D2c2Ae629FcE687517EEDa830fAC55fCcc3` – "BARTOK" (Cultural Institutions 1)
+* `0x7B23677d1A0634b2917f9460041527F06D4A7d34` – "RODIN" (Cultural Institutions 2)
+* `0xc75D5E45e0fCf784E6C0Bb9686F58A5922d857cB` – "NIGHTINGALE" (Hospitals 1 - Children)
 * `0x5934Cb8C1B4bb9B76A99A28eA73EaC3A948B03f5` – "AVICENNA" (Hospitals 2)
 * `0x3D15BC3Ae4eaE33B5bd4B4c18a67cd2295aca1D1` – "HIPPOCRATES" (Hospitals 3)
 
@@ -88,16 +88,16 @@ The distribution of funds across these wallets is as follows:
 	* Second wallet: LUX reaches at least **$50**
 
 **Purpose:**
-Four prizes awarded for:
+Four prizes yearly awarded for:
 
-* Technology
-* Physics
-* Chemistry
-* Medicine
+* Technology - $1M
+* Physics - $1M
+* Chemistry - $1M
+* Medicine - $1M
 
 **Wallets:**
-* `0x4144f8e70AF4CD0c197144149676491Ce11E9f58` – "TESLA 1" 
-* `0x8cb12789cc2D3fba7699336e7EE849029F17ce1b` – "TESLA 2"
+* `0x4144f8e70AF4CD0c197144149676491Ce11E9f58` – "TESLA 1" (first round)
+* `0x8cb12789cc2D3fba7699336e7EE849029F17ce1b` – "TESLA 2" (second round)
 
 ## 5. St. Michael - World Crown
 
@@ -110,7 +110,7 @@ Five crowns awarded **yearly** for:
 
 * Peace
 
-The Crown is valued at **$2 million USD**
+The Crown is valued at **$2 million USD**, yearly.
 
 **Wallet:**
 * `0x5D0127e043eF0f320b856B19709fecc9e486f66C` – "ST. MICHAEL"
