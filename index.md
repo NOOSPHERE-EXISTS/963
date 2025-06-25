@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 # "Noosphere Exists" and The Currency of Reason
 
 ## Prologue
@@ -48,3 +51,12 @@ Contract: `0x0cf94751d66f0bd0c09a7b8b84a71CF2E7D6a664`
 * Fair launch: No special privileges or minting rights.
 * Liquidity Pool: Locked for trust.
 * Multi-chain: Could bridge in the future based on community growth.
+
+ 
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaFvG1wAKCRC9Tc0+S+Ym
+Y4GDAPwJvLPec5Fmh23fcuhh/ArVQuY9Kucpzvc1NH/JSs4JGQD/YpZOOmAzRbu9
+NsljvFy3z5pBtCBaE7/dI2tM+iR+Hgc=
+=Iy+s
+-----END PGP SIGNATURE-----
