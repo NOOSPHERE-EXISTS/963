@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 ## Noosphere Exists (LUX) Foundation Fund Distribution
 
 The funds held in escrow wallets are allocated for long-term distribution and will be managed by the **LUX Foundation**. 
@@ -13,3 +16,12 @@ The **LUX Foundation** Committee will oversee the selection process and disburse
 Applications will remain open in the coming years. For updates, please refer to the email provided in our official PGP key.
 
 All public communications from the **LUX Foundation** will always be signed to ensure authenticity.
+
+ 
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaFvGpAAKCRC9Tc0+S+Ym
+Y9d1AP9rKvq3q8QOIWOqDrUo+Yue3zopQad1PeJ3D2OtSWxlyQD+PnKMGtwwfVSl
+sRDlMTpw/AuEMnoiZOdGoDTGG3OAggo=
+=NGWx
+-----END PGP SIGNATURE-----
