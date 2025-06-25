@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 # Noosphere Exists
 
 I am new to world of global finance.  These are my first thoughts.
@@ -47,3 +50,12 @@ Is labeling the other currencies fictional biased?  The labels are descriptive i
 As people lose faith in non-fictional currencies there will be a surge to semi-fictional currencies.
  
 Expect the rush to **LUX** to be nothing short of world changing.
+
+ 
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaFvGZgAKCRC9Tc0+S+Ym
+Y/EhAQCkxWdaPYNkVaaNwuN5bo6lyAkXXnXplgXglhibIfnrhwEAqrS1/jTY03ay
+LdqJAnqQJsX+o4Xk+BGK6v/rfG38Xg8=
+=s1bT
+-----END PGP SIGNATURE-----
