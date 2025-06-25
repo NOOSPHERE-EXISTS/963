@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 # Escrow Allocations for LUX Token Distribution
 
 * **Minting platform:** BASE
@@ -122,3 +125,12 @@ The Crown is valued at **$2 million USD**, yearly.
 
 **Wallet:**
 * `0x6A099E68deceC972CC067B327CA2A84e12aF76c1`
+
+ 
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQNNATEy0m/HTNjCL+9Tc0+S+YmYwUCaFvHMgAKCRC9Tc0+S+Ym
+Y354AP43eog1BLCDY+U7BjjOPxE2QSDx8CluE4YA/znS0BFmOgEAryNptvUjqiV8
+hKVodRZxmlao7gFOeNrPnuPNHTg/0go=
+=nW86
+-----END PGP SIGNATURE-----
